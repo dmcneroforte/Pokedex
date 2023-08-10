@@ -3,7 +3,7 @@ AI Pokedex
  Add short description of project here > 
 An AI Pokedex designed to accurately identify 108 different pokemon 
 
-![add image descrition here](direct image link here)
+![Abra Screenshot 2023-08-10 125534](https://github.com/dmcneroforte/Pokedex/assets/141778017/447e6bd2-5de8-4eae-afbe-687063770b11)
 
 ## The Algorithm
 
