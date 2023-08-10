@@ -22,3 +22,7 @@ would mean that the AI is 87% sure that the image provided was in fact
 
 
 [View a video explanation here](video link)# Pokedex
+
+
+https://github.com/dmcneroforte/Pokedex/assets/141778017/6b7ccf01-7ea9-473d-abf9-fccd183c6a65
+
