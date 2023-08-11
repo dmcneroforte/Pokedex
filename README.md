@@ -1,5 +1,4 @@
-
-AI Pokedex 
+AI Pokedex
 
 An AI Pokedex designed to accurately identify 108 different pokemon 
 
